@@ -1,3 +1,4 @@
+![logo](https://github.com/mayankprojects/mayankprojects/blob/main/Mayank%20Kumar.png)
 <h1 align="center">Hi 👋, Mayank this side</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400"
